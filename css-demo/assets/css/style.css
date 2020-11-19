@@ -106,7 +106,7 @@ header.primary nav a:link, header.primary nav a:visited{
   background-color: #000000;
   background-color: rgba(0,0,0,.4);
   padding:8px 16px;
-  border-radius: 20px;
+  border-radius: 15px;
   transition:.6s;
 }
 
